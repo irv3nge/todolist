@@ -124,12 +124,3 @@ Se você deseja contribuir para este projeto, siga as etapas abaixo:
 3. Realize as modificações desejadas.
 4. Envie um **pull request**.
 
-## Licença
-
-Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Esse modelo de README está mais estruturado, com cabeçalhos claros, uso de listas e blocos de código formatados para tornar a leitura mais fluida e agradável. Ele também foi organizado para facilitar a navegação através das seções, como instruções para rodar o projeto, testar os endpoints e entender a estrutura do código. 
-
-Sinta-se à vontade para fazer ajustes conforme necessário, mas já deve estar visualmente mais atraente e informativo para quem for consultar o repositório.
