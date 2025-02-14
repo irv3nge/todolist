@@ -33,7 +33,7 @@ Antes de rodar o projeto, você precisa ter o seguinte instalado:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-usuario/todolist-api.git
+git clone https://github.com/irv3nge/todolist-api.git
 cd todolist-api
 ```
 
